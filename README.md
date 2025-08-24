@@ -18,7 +18,7 @@ business decisions.
 - Sales by Region
 - Monthly Sales Trend
 
-## 🛠 Tools Used
+##  Tools Used
 - Excel (Data cleaning & exploration)
 - Tableau (Dashboard building)
 - GitHub (Project documentation)
